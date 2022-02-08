@@ -1,1 +1,1 @@
-# Data-Analytics-Project
+# Supermarket customer purchase behaivor analysis - Category Chips 
